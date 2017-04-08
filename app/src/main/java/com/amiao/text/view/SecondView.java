@@ -54,7 +54,7 @@ public class SecondView extends View {
     public boolean onTouchEvent(MotionEvent event) {
         currentX=event.getX();
         currentY=event.getY();
-        invalidate();//让原来的坐标作废
+        invalidate();//让原来的坐标作废,
 
 
         return true;

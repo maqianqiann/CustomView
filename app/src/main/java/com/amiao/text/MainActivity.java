@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
        /* setContentView(R.layout.activity_main);
         FrameLayout fr= (FrameLayout) findViewById(R.id.root);
         fr.addView(new MyView(MainActivity.this));*/
-        setContentView(R.layout.second);
+      //  setContentView(R.layout.second);
+        setContentView(R.layout.three);
     }
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ThreeView" >
+        <attr name="buttonNum" format="integer"/>
+        <attr name="itemBack" format="reference|color"/>
+
+       </declare-styleable>
+    
+</resources>
